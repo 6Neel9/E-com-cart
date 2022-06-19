@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/E-com-cart/static/css/main.29747661.css",
+    "main.js": "/E-com-cart/static/js/main.2c3b0610.js",
+    "index.html": "/E-com-cart/index.html",
+    "main.29747661.css.map": "/E-com-cart/static/css/main.29747661.css.map",
+    "main.2c3b0610.js.map": "/E-com-cart/static/js/main.2c3b0610.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29747661.css",
+    "static/js/main.2c3b0610.js"
+  ]
+}
