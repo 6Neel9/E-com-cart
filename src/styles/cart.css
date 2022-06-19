@@ -75,3 +75,8 @@ article {
   color: green;
   font-weight: bold;
 }
+.alert{
+  padding: 150px;
+  display:flex;
+  align-items: center;
+}

@@ -1,7 +1,9 @@
 import React from "react";
 import "../styles/navbar.css";
 
+
 const Navbar = ({ setShow, size }) => {
+
   return (
     <nav>
       <div className="nav_box">
@@ -15,6 +17,7 @@ const Navbar = ({ setShow, size }) => {
           <span>{size}</span>
         </div>
       </div>
+      
     </nav>
   );
 };
